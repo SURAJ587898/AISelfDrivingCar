@@ -41,8 +41,7 @@ ai-car-simulation/
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/ai-car-simulation.git
-cd ai-car-simulation
+git clone https://github.com/SURAJ587898/AISelfDrivingCar.git
 
 2️⃣ Install Dependencies
 
